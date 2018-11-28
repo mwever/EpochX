@@ -20,7 +20,7 @@ Source code of the modified EpochX (version 1.4.1) framework for the Automated M
 
 **If you are using this framework, please cite its paper:**
 
-=> Fernando Otero, Tom Castle, and Colin Johnson. 2012. EpochX: genetic programming in java with statistics and event monitoring. In Proceedings of the 14th annual conference companion on Genetic and evolutionary computation (GECCO '12), Terence Soule (Ed.). ACM, New York, NY, USA, 93-100. DOI: https://doi.org/10.1145/2330784.2330800
+=> F. Otero, T. Castle, and C. Johnson. 2012. EpochX: genetic programming in java with statistics and event monitoring. In Proceedings of the 14th annual conference companion on Genetic and evolutionary computation (GECCO '12), Terence Soule (Ed.). ACM, New York, NY, USA, 93-100. DOI: https://doi.org/10.1145/2330784.2330800
 
 
 
