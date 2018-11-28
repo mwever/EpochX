@@ -14,6 +14,7 @@ Source code of the modified EpochX (version 1.4.1) framework for the Automated M
 7) It allows the generation of random integer numbers (from a range) into the production rules, restricted by the number of class labels of the problem, by using "RANDINT_TYPE5(1,L)";  
 8) It allows the generation of random integer numbers (from a range) into the production rules, restricted by the number of class labels minus one (1), by using "RANDINT_TYPE6(2,L-1)"; 
 9) Because of legibility issues of the grammar, we automatically add space to separate the produced terminals. Hence, the user that will create the grammar does not need to add " " after each terminal and non-terminal.
+10) Removal of code not related to grammar-based genetic programming (GGP).
 
 
 **If you are using this framework, please cite its paper:**
