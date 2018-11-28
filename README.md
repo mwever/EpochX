@@ -1,7 +1,6 @@
 # EpochX
 
-EpochX version for the Automated Multi-Label Classification (Auto-MLC) project. The original EpochX is available at:
-[EpochX](https://www.epochx.org/) 
+Source code of the modified EpochX (version 1.4.1) for the Automated Multi-Label Classification (Auto-MLC) project. The original code is available at (https://www.epochx.org/) and (https://github.com/tc33/EpochX).
 
 
 **Main differences to the original version:**
