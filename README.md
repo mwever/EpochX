@@ -16,6 +16,24 @@ Source code of the modified EpochX (version 1.4.1) framework for the Automated M
 9) Because of legibility issues of the grammar, we automatically add space to separate the produced terminals. Hence, the user that will create the grammar does not need to add " " after each terminal and non-terminal.
 
 
+If you are using this framework, please cite its paper:
+
+@inproceedings{Otero2012,
+ author = {Otero, Fernando and Castle, Tom and Johnson, Colin},
+ title = {{EpochX}: Genetic Programming in Java with Statistics and Event Monitoring},
+ booktitle = {Proceedings of the Annual Conference Companion on Genetic and Evolutionary Computation},
+ series = {GECCO Companion},
+ year = {2012},
+ location = {Philadelphia, Pennsylvania, USA},
+ pages = {93--100},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {EpochX, framework, genetic programming},
+} 
+
+
+
+
 
 
 
